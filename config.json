@@ -1,0 +1,9 @@
+﻿{
+  "BaseUrl": "https://buggy.justtestit.org",
+  "ChromeDriver": {
+    "IsHeadless": "true",
+    "IsMaxStart": "true",
+    "IsEnableSavePasswordDialog": "true",
+    "ImplicitWaitInSeconds": "10"
+  }
+}
