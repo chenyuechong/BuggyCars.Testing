@@ -1,13 +1,13 @@
 # BuggyCars.Testing
 
 
-How to run:
-	1. install visual studio 2022 and .net 7.0
-	2. install Specflow
-	3. clone code to local
-	4. Open BuggyCars.Testing.sln and Rebulid
-	5. click Test -> Run All Tests
+<H1>How to run:</H1>
+<ol>
+<li>Install visual studio 2022 and .net 7.0</li>
+<li>Install Specflow</li>
+<li>Clone code to local</li>
+<li>Open BuggyCars.Testing.sln and Rebulid</li>
+<li>Click Test -> Run All Tests</li>
+</ol>
 
-Test Approach:
-Scope:
-Website:  https://buggy.justtestit.org/
+Happy Testing!
