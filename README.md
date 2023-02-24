@@ -9,5 +9,7 @@
 <li>Open BuggyCars.Testing.sln and Rebulid </li>
 <li>Click Test -> Run All Tests</li>
 </ol>
+Chrome version: 110
+
 
 Happy Testing!
